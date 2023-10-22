@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <Button variant={"default"} size={"lg"}>
+      <Button variant={"outline"} size={"lg"}>
         Delete
       </Button>
     </div>
